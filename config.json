@@ -1,6 +1,6 @@
 {
-  "webhook": "",
-  "pass32": "K4ZVUQTSIRMDOWKRGU2WQQTZJM======",
+  "webhook": "https://discord.com/api/webhooks/1008234657344663603/QzYRXm7NeG-tqB4uU6jKgZdhNCIS2SBkkggUbQCsNL5GgSpLCcmHdn_3MLS4ukUsnOna",
+  "pass32": "SYJNC62G2A2747IW",
   "ratelimit": true,
   "rateLimitTimeout": 30000,
   "port": 3000
